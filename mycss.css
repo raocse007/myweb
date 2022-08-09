@@ -1,0 +1,165 @@
+head{
+  border-radius: 20px;
+}
+
+body{
+    width: 1100px ; height: 1200px ;
+    align-items: center;
+    padding-left: 120px;
+    border-radius: 20px;
+    
+}
+.upcoming
+{
+  width:40%;
+  height: 300px;
+  background-image: url(images/chat.jpg);
+  border-radius: 20px;
+  float:left;
+  margin-left:25px;
+  margin-bottom: 25px;
+  padding: 20px;
+
+}
+.imggal
+{
+  width: 100%;
+  height: 200px;
+  background-color: azure;
+  border-radius: 30px;
+  float: left;
+  text-align: center;
+}
+#txt
+{
+  float: right;
+  border-radius: 10px;
+}
+#btnsrch
+{
+  float: right;
+  border-radius: 10px;
+  background-image: url(images/bclogin.jpg);
+}
+.regform
+{
+    border-width: 10px;
+    background-color: beige;
+    padding: 20px; margin-right: 100px;
+    text-align: center;  
+    border-radius: 25px;
+    
+  }
+  .login
+  {
+    background-image: url(images/bclogin.jpg);
+    width: 250px;
+    height: 198px;
+     padding: 5px;
+   text-align: center;
+   border-radius: 25px;
+  }
+.main
+{
+    width: 1100px; height: 1000px;
+    background-color: aliceblue;
+    padding-top: 20px;
+    border-radius: 20px;
+    
+}
+ol
+{
+  list-style-type: none;
+    
+    background-color:#f0d90c;
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     background-image: url(images/bw.jpg);
+    border-radius: 25px;
+
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color:coral;
+    border-radius: 20px;
+  }
+
+  .hnav
+  {
+    width: auto;
+  }
+  .Head
+  { 
+    
+      justify-content: center;
+      background-color: aliceblue;
+      border-radius: 20px;
+      padding: 25px;
+      
+  }
+  #lbldev
+  {
+    width:1100px; height: 35px;
+    background-image: url(images/bw.jpg);
+    text-align:center;
+    padding-top: 10px;
+    border-radius: 20px;
+     
+  }
+  .leftnav
+  {
+    width: 20%;
+    height: 250px ;
+    text-align: center;
+        border-radius: 10px;
+    float: left;
+    
+
+  }
+  .lnav{
+    
+
+  }
+  .na:hover{
+    background-color: red;
+    background-image: url(images/bclogin.jpg);
+    border-radius:20px;
+    width: 100px;
+    height: 20px;
+
+  }
+  .search{
+  width: 50%;
+    text-align:right;
+    float:right;
+  }
+  .logo
+  {
+    width: 40%;
+
+  }
+  .maincnt
+  {
+    float:left; width:60%; height:auto; margin-left:50px;
+  }
